@@ -1,0 +1,5 @@
+# Private data - local only, not committed to git
+# Add your own sequences, primers, and templates to the private/ subdirectories.
+# The folder structure below is tracked via .gitkeep placeholders.
+private/**/*
+!private/**/.gitkeep
